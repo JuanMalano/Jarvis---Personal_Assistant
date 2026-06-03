@@ -1,0 +1,30 @@
+{
+    "links": [
+        {
+            "name": "Prueba",
+            "url": "https://youtube.com",
+            "type": "url",
+            "claps": 1,
+            "enabled": true
+        },
+        {
+            "name": "Prueba 2",
+            "url": "C:\\Users",
+            "type": "file",
+            "claps": 2,
+            "enabled": true
+        }
+    ],
+    "profiles": [
+        {
+            "name": "Prueba",
+            "hotkey": "ctrl+1",
+            "items": [
+                {
+                    "path": "https://Youtube.com",
+                    "type": "url"
+                }
+            ]
+        }
+    ]
+}
